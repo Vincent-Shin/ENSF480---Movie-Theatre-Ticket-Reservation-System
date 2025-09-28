@@ -1,0 +1,8 @@
+Thank you for purchasing a ticket with AcmePlex!
+Here is your ticket info:
+TicketID: 2
+Movie: Bonhoeffer: Pastor. Spy. Assassin.
+Theatre: West Valleys
+Showing: 2024-12-07T12:00:00
+Seat Number:A1
+Tickets can be cancelled only up to 72 hours prior to the show.

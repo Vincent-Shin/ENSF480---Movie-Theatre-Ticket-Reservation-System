@@ -1,0 +1,6 @@
+Please keep this receipt for your records.
+Thank you for joining us on this silver screen adventure.
+Customer Email: email
+TicketID: 2
+Price: 12$
+CardNum: XXXX XXXX XXXX 1234
